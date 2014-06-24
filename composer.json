@@ -1,5 +1,5 @@
 {
-    "name": "root/dependency-example",
+    "name": "thing/dependency-example",
     "require": {
         "composer/composer": "dev-master",
         "composer/installers": "dev-master",

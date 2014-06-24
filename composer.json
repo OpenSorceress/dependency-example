@@ -1,0 +1,16 @@
+{
+    "name": "root/dependency-example",
+    "require": {
+        "composer/composer": "dev-master",
+        "composer/installers": "dev-master",
+        "composer/satis": "dev-master"
+    },
+    "license": "OSL-3.0",
+    "authors": [
+        {
+            "name": "Leah LaSalla",
+            "email": "leah.lasalla@buyerquest.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
